@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Helen!
 
-<!--
-**helenhoracio/helenhoracio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Tenho 32 anos e estou iniciando minha jornada no mundo da programação.  
+🎓 Começando o curso superior em **Análise e Desenvolvimento de Sistemas**.  
+💜 Atualmente estudando e praticando a linguagem **Kotlin**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
+- 💻 Iniciante em programação  
+- 🔤 Linguagem atual: **Kotlin**  
+- 🌱 Sempre aprendendo algo novo  
+- 🎯 Objetivo: evoluir na área de tecnologia e desenvolvimento de software  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- Kotlin  
+- Git & GitHub  
+- Lógica de Programação  
+*(em breve mais! 😄)*
+
+---
+
+## 📈 Em aprendizado
+- Fundamentos de programação  
+- Programação orientada a objetos  
+- Desenvolvimento de aplicações  
+- Boas práticas de código  
+
+---
+
+✨ *Este perfil representa minha evolução na programação. Todo começo é um passo importante!* 🚀
